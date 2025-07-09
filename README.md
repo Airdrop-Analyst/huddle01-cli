@@ -79,7 +79,7 @@ hudl wallet configure
 To complete the setup and configure your **Media Node Pool**, follow the video tutorial below:
 
  **Watch the full setup tutorial here:**  
-[Full Tutorial video](https://t.me/analsyt-video)
+[Full Tutorial pool here](https://huddle01.network/guides/Create-and-Manage-your-Pool)
 
 > ℹ️ This step includes advanced configuration such as creating a pool, adding node keys, and monitoring performance.
 
