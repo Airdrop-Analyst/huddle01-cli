@@ -72,18 +72,7 @@ You can input your private key or generate a new one via the CLI
 ```bash
 hudl wallet configure
 ```
-
-### 5. Start the Node in the Background
-
-```bash
-hudl node start -d
-```
-### 6. Check Status Node
-
-```bash
-hudl node status
-```
-### 7. 🛠️ Setting Up a Pool
+### 5. 🛠️ Setting Up a Pool
 
 To complete the setup and configure your **Media Node Pool**, follow the video tutorial below:
 
@@ -92,6 +81,16 @@ To complete the setup and configure your **Media Node Pool**, follow the video t
 
 > ℹ️ This step includes advanced configuration such as creating a pool, adding node keys, and monitoring performance.
 
+### 6. Start the Node in the Background
+
+```bash
+hudl node start -d
+```
+### 7. Check Status Node
+
+```bash
+hudl node status
+```
 ---
 
 ## 🌐 Required Ports (Manual Firewall Configuration)
