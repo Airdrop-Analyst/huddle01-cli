@@ -1,4 +1,4 @@
-# 🚀 Huddle01 Media Node Setup Guide by Airdrop Analyst
+# 🚀 Huddle01 Media Node Setup Guide by [Airdrop Analyst](https://t.me/AirdropAnalyst)
 
 ---
 
