@@ -19,7 +19,7 @@ Choose a server or VPS that meets or exceeds the following specs:
 ### 1. Quick Auto-Install of ffmpeg and Automatic Port Setup
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/miftah1231/huddle-CLI/main/setup.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Airdrop-Analyst/huddle01-cli/main/setup.sh)
 ```
 This script will automatically:
 - Install `ffmpeg`
