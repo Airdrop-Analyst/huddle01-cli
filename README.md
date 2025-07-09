@@ -129,7 +129,7 @@ ffmpeg -version
 
 ---
 
-## 📎 [Official Guide] (https://www.huddle01.network/guides/How-to-run-a-Media-Node-via-CLI)
+## 📎 [Official Guide](https://www.huddle01.network/guides/How-to-run-a-Media-Node-via-CLI)
 
 - https://www.huddle01.network/guides/How-to-run-a-Media-Node-via-CLI
 
