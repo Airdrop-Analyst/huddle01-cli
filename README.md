@@ -75,6 +75,7 @@ hudl wallet configure
 ### 5. 🛠️ Setting Up a Pool
 
 [Pool Page](https://www.huddle01.network/pools)
+
 To complete the setup and configure your **Media Node Pool**, follow the video tutorial below:
 
  **Watch the full setup tutorial here:**  
