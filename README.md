@@ -144,5 +144,3 @@ ffmpeg -version
 - https://www.huddle01.network/guides/How-to-run-a-Media-Node-via-CLI
 
 ---
-
-> ℹ️ *This guide is maintained by the community and based on Huddle01's official installation script.*
